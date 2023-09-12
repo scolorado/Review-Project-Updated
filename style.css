@@ -1,10 +1,14 @@
-body{
-    background-image: url(images/aidan-hancock-8RU4OuA6Yug-unsplash.png);
-    background-repeat: no-repeat;
-    position: relative;
-    background-size: 100%;
-}
+
 #homeButton{
     background-color: #10C9C3;
     color: white;
+}
+.section1{
+    text-align: center;
+}
+#centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
