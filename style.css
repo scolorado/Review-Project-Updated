@@ -9,3 +9,7 @@
     left: 50%;
     transform: translate(-50%, -50%);
 }
+#progress{
+    color: #10C9C3;
+    background-color: #10C9C3;
+}
