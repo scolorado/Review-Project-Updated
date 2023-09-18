@@ -52,3 +52,9 @@
     -ms-transform: translate(-50%, -50%);
     text-align: center;
   }
+
+  #jumbo{
+    background-color: #10C9C3;
+    text-align: center;
+    color: white;
+  }
