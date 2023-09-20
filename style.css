@@ -58,3 +58,18 @@
     text-align: center;
     color: white;
   }
+
+  #forms{
+    background-color: #F5F5F5;
+    text-align: center;
+    padding-left: 30%;
+    padding-right: 30%;
+    
+  }
+
+  #formbtn{
+    background-color: #10C9C3;
+    color: white;
+    align-self: center;
+    text-align: center;
+  }
